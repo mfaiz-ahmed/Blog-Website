@@ -81,3 +81,25 @@ font-size: 1.4rem;}
 
 footer{max-width: 1200px;
     margin: 0 auto;}
+
+
+
+.banner-img{width: 100%;}
+
+
+.post-heading{font-family: inter;
+font-size: 3rem;
+font-weight: 700;}
+
+
+
+.inter{font-family: inter;}
+
+
+.post-txt{font-size: 1.6rem;
+font-weight: 300;}
+
+
+.content{font-family: inter;
+font-size: 1.4rem;
+font-weight: 300;}
